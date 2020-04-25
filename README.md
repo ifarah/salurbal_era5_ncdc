@@ -10,5 +10,6 @@ From the 371 cities, 17 cities were selected: 7 in tropical, 5 in dry, and 5 in 
 For data processing, please view the Jupyter notebook and the folder containing the temperature data [here](https://github.com/ifarah/salurbal_era5_ncdc/data_processing.ipynb). 
 
 ### Access to raw data:
-- [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
-- [NCDC](https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-day)
+- [ERA5 hourly data on single levels](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
+- [NCDC Daily Summary of the Day - new version](https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-day)
+- [NCDC Daily Summary of the Day](https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD&countryabbv=&georegionabbv=)
