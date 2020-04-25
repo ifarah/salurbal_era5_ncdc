@@ -19,4 +19,4 @@ For data processing, please view the Jupyter notebook and the folder containing 
 - [NCDC Daily Summary of the Day](https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD&countryabbv=&georegionabbv=)
 
 ### View plot trends by city:
-[PLOTS](https://github.com/ifarah/salurbal_era5_ncdc/val_plots.pdf)
+[PLOTS](https://github.com/ifarah/salurbal_era5_ncdc/output/val_plots.pdf)
