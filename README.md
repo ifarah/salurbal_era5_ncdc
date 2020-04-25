@@ -6,7 +6,7 @@ In order to carry out the validation process, we examined daily average temperat
 
 From the 371 cities, 17 cities were selected: 7 in tropical, 5 in dry, and 5 in temperate zones. From the 17 cities, 7 are coastal to have an idea of how correlated are pixels that can be impacted by the presence of water.
 
-For data processing, please view the Jupyter notebook and the folder containing the temperature data in [https://github.com/ifarah/salurbal_era5_ncdc]. 
+For data processing, please view the Jupyter notebook and the folder containing the temperature data [here](https://github.com/ifarah/salurbal_era5_ncdc/data_processing.ipynb). 
 
 Access to raw data:
 ERA5: [https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview]
