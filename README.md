@@ -9,7 +9,7 @@ From the 371 cities, 17 cities were selected: 7 in tropical, 5 in dry, and 5 in 
 
 Table 1 describes the relationship between both datasets:
 
-[output/table.png]
+<img src="output/table.png" align="center" width="40%">
 
 For data processing, please view the Jupyter notebook and the folder containing the temperature data [here](https://github.com/ifarah/salurbal_era5_ncdc/data_processing.ipynb). 
 
