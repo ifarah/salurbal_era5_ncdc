@@ -17,3 +17,6 @@ For data processing, please view the Jupyter notebook and the folder containing 
 - [ERA5 hourly data on single levels](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 - [NCDC Daily Summary of the Day - new version](https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-day)
 - [NCDC Daily Summary of the Day](https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD&countryabbv=&georegionabbv=)
+
+### Plot trends by city:
+<img src="output/val_plots.pdf" align="center" width="100%">
