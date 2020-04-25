@@ -11,7 +11,7 @@ Table 1 describes the relationship between both datasets:
 
 <img src="output/table.png" align="center" width="120%">
 
-For data processing, please view the Jupyter notebook and the folder containing the temperature data [here](https://github.com/ifarah/salurbal_era5_ncdc/data_processing.ipynb). 
+For data processing, please view the Jupyter notebook and the folder containing the temperature data [here](https://github.com/ifarah/salurbal_era5_ncdc/blob/master/data_processing.ipynb). 
 
 ### Access to raw data:
 - [ERA5 hourly data on single levels](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
